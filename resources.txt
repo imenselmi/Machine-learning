@@ -1,0 +1,64 @@
+1-Simple Linear Regression for Salary Data:
+https://www.kaggle.com/vivinbarath/simple-linear-regression-for-salary-data
+2-multiple linear regression :
+    *-backward elimination:
+https://towardsdatascience.com/backward-elimination-for-feature-selection-in-machine-learning-c6a3a8f8cef4
+3-SVM:
+https://www.kaggle.com/pranathichunduru/svm-for-multiclass-classification
+**)e-learning platforms:
+*-Sololearn: 
+https://www.sololearn.com/learning/1094
+*-coursera:
+https://www.coursera.org
+*-github:
+https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR0WoPsbdgG-QwT5IbMPdJGDOO06IyCIVd6toxpEBqvCC_szshq6rti5Pfk#artificial-intelligence
+*-linkedin learning :
+https://www.linkedin.com/learning/
+*-linkedin imen-selmi xD :
+https://www.linkedin.com/in/imen-selmi/
+*-youtube:
+https://www.youtube.com/c/CognitiveClass/playlist
+https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83
+https://youtu.be/iL1kw-yV-WU (how get linkedin free courses)
+*-datacamp:
+https://app.datacamp.com/learn
+*-udemy:
+https://www.udemy.com
+*-IBM:
+https://www.ibm.com/cloud/learn/artificial-intelligence
+*-cognitiveclass.ai:
+           1)exam ai :(!!deadline 8 dec)
+           https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0101ENv3+2018/course/
+           2)courses: 
+           https://courses.cognitiveclass.ai/dashboard
+           3)youtube:
+           https://www.youtube.com/c/CognitiveClass/playlists
+*-udacity:
+https://www.udacity.com/course/data-scientist-nanodegree--nd025
+        freecourses:
+        https://www.udacity.com/course/intro-to-artificial-intelligence--cs271?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=d6c0ec69-3a5a-eccf-9773-08f75c76e1e2&utm_campaign=acq_100_auto_ndxxx_inactive-marketing-leads_global&utm_source=blueshift&utm_medium=email&utm_content=acq_100_auto_ndxxx_inactive-marketing-leads-free-b_global&bsft_clkid=5fe3131c-5252-40c0-8f77-1a71a2f8b548&bsft_uid=36cc53d2-fef4-41b9-ad76-20610d16335f&bsft_mid=0888c593-7149-42f8-8b63-827a6b2fdfcc&bsft_txnid=19baf823-7485-4bd6-92ba-7d634aed270a&bsft_mime_type=html&bsft_ek=2021-12-01T17%3A23%3A14Z&bsft_lx=11&bsft_tv=8
+ 
+
+*-ML pipline:
+https://www.linkedin.com/pulse/life-data-science-osemn-randy-lao/
+*-IBM:
+https://www.ibm.com/cloud/learn/supervised-learning
+*-kaggle titanic:
+https://www.kaggle.com/muhammadimran112233/titanic-a-complete-tutorial-of-data-science
+Neuromatch Academy: Deep Learning:
+https://deeplearning.neuromatch.io/tutorials/intro.html?fbclid=IwAR3CNaQF-XFSofv87LF7hMRNlozqU6pW9y6ioSZuWFf4H8dfQrpGJW6UmG8
+openclassroom:
+https://openclassrooms.com/en/search?page=1&categories=Data&type=course
+
+k-means kaggle:
+https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis
+For Projects :
+youtube channel : Nicholas Renotte : https://www.youtube.com/channel/UCHXa4OpASJEwrHrLeIzw7Yg
+complete path in data science :
+https://mega.nz/folder/RAMkFCbR#plQOfgNiciGHiBoJqS_UZQ
+ExamTopics :"website contains all answers of microsoft exams":
+https://www.examtopics.com
+IBM youtube:
+https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ
+https://www.ibm.com/cloud/learn/neural-networks
+https://developer.ibm.com/articles/cc-cognitive-neural-networks-deep-dive/
